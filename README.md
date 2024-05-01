@@ -2,7 +2,7 @@
 ``` cd project-name ```
 
 # Start Tailwind Service
-``` npm start ```
+``` npm run dev ```
 
 # Start Laravel Project
 ``` php artisan serve ```
