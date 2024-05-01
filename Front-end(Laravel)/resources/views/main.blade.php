@@ -93,7 +93,9 @@
                     updateLotteryResults(response.data.results);
                 })
                 .catch((error) => {
-                    console.error('Error:', error);
+                    if(error.response.status == 404) {
+                        return
+                    }
                     alert("เกิดข้อผิดพลาด กรุณาลองใหม่อีกครั้ง"); 
                 });
             }
