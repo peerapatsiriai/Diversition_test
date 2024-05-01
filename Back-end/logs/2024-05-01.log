@@ -1,0 +1,36 @@
+2024/05/01 22:59:32 ReqID: bdcbf007-1a12-4c7b-a5e8-837708db3183 | Method: GET /api/lotterys | IP: ::1 
+2024/05/01 22:59:32 ReqID: bdcbf007-1a12-4c7b-a5e8-837708db3183 | Method: GET /api/lotterys | ResponseStatus: 200 | Latency: 80.2792ms 
+2024/05/01 22:59:33 ReqID: 5e4b70be-b28c-4c19-b1af-c48507ae4d89 | Method: POST /api/lotterys | IP: ::1 
+2024/05/01 22:59:34 ReqID: 5e4b70be-b28c-4c19-b1af-c48507ae4d89 | Method: POST /api/lotterys | ResponseStatus: 201 | Latency: 159.9184ms 
+2024/05/01 22:59:35 ReqID: 39937aa3-9afd-4eea-aafc-e7daa7693e90 | Method: POST /api/lotterys | IP: ::1 
+2024/05/01 22:59:35 ReqID: 39937aa3-9afd-4eea-aafc-e7daa7693e90 | Method: POST /api/lotterys | ResponseStatus: 201 | Latency: 160.379ms 
+2024/05/01 22:59:36 ReqID: e9d50a96-7501-411e-84d4-59cebabdaaa0 | Method: POST /api/lotterys | IP: ::1 
+2024/05/01 22:59:36 ReqID: e9d50a96-7501-411e-84d4-59cebabdaaa0 | Method: POST /api/lotterys | ResponseStatus: 201 | Latency: 165.128ms 
+2024/05/01 22:59:37 ReqID: b3d1f8de-6819-4aad-a0df-7be5061f25f1 | Method: POST /api/lotterys | IP: ::1 
+2024/05/01 22:59:38 ReqID: b3d1f8de-6819-4aad-a0df-7be5061f25f1 | Method: POST /api/lotterys | ResponseStatus: 201 | Latency: 159.615ms 
+2024/05/01 22:59:46 ReqID: 8226e5a8-ade3-4947-810f-982962407668 | Method: POST /api/lotterys | IP: ::1 
+2024/05/01 22:59:46 ReqID: 8226e5a8-ade3-4947-810f-982962407668 | Method: POST /api/lotterys | ResponseStatus: 201 | Latency: 158.7058ms 
+2024/05/01 22:59:47 ReqID: e1b8c223-75cb-4942-b783-2e9dbbbd74d0 | Method: POST /api/lotterys | IP: ::1 
+2024/05/01 22:59:47 ReqID: e1b8c223-75cb-4942-b783-2e9dbbbd74d0 | Method: POST /api/lotterys | ResponseStatus: 201 | Latency: 121.3497ms 
+2024/05/01 23:00:00 ReqID: c3b380fb-eeb7-46d8-a5d3-5082125def2e | Method: POST /api/lotterys | IP: ::1 
+2024/05/01 23:00:00 ReqID: c3b380fb-eeb7-46d8-a5d3-5082125def2e | Method: POST /api/lotterys | ResponseStatus: 201 | Latency: 204.4989ms 
+2024/05/01 23:00:02 ReqID: 09e3c81a-71c0-432c-8435-1762aece63b2 | Method: GET /api/lotterys | IP: ::1 
+2024/05/01 23:00:02 ReqID: 09e3c81a-71c0-432c-8435-1762aece63b2 | Method: GET /api/lotterys | ResponseStatus: 500 | Latency: 122.8385ms 
+2024/05/01 23:00:08 ReqID: 6ae83d69-abc0-4ba1-ade4-8d6d43726761 | Method: POST /api/lotterys | IP: ::1 
+2024/05/01 23:00:08 ReqID: 6ae83d69-abc0-4ba1-ade4-8d6d43726761 | Method: POST /api/lotterys | ResponseStatus: 201 | Latency: 164.7684ms 
+2024/05/01 23:00:13 ReqID: 1f4c0048-7992-49df-b0c6-36bd1323caa0 | Method: GET /api/lotterys | IP: ::1 
+2024/05/01 23:00:13 ReqID: 1f4c0048-7992-49df-b0c6-36bd1323caa0 | Method: GET /api/lotterys | ResponseStatus: 500 | Latency: 80.9768ms 
+2024/05/01 23:01:07 ReqID: 7593ce71-9c8b-4a38-8f58-4707270f69c6 | Method: GET /api/lotterys | IP: ::1 
+2024/05/01 23:01:07 ReqID: 7593ce71-9c8b-4a38-8f58-4707270f69c6 | Method: GET /api/lotterys | ResponseStatus: 200 | Latency: 122.124ms 
+2024/05/01 23:01:08 ReqID: e22c89b0-0d6a-458b-b384-1d6477013e48 | Method: GET /api/lotterys | IP: ::1 
+2024/05/01 23:01:08 ReqID: e22c89b0-0d6a-458b-b384-1d6477013e48 | Method: GET /api/lotterys | ResponseStatus: 200 | Latency: 79.2014ms 
+2024/05/01 23:01:15 ReqID: 65e1eb51-589f-4677-90eb-8742051ff2b0 | Method: POST /api/lotterys | IP: ::1 
+2024/05/01 23:01:15 ReqID: 65e1eb51-589f-4677-90eb-8742051ff2b0 | Method: POST /api/lotterys | ResponseStatus: 201 | Latency: 200.8195ms 
+2024/05/01 23:01:19 ReqID: 65231275-37c3-47f1-9ce6-127c9513c43a | Method: POST /api/lotterys | IP: ::1 
+2024/05/01 23:01:19 ReqID: 65231275-37c3-47f1-9ce6-127c9513c43a | Method: POST /api/lotterys | ResponseStatus: 201 | Latency: 161.0435ms 
+2024/05/01 23:01:23 ReqID: 280ae41d-0dfe-4898-8209-7ac408939621 | Method: POST /api/lotterys | IP: ::1 
+2024/05/01 23:01:24 ReqID: 280ae41d-0dfe-4898-8209-7ac408939621 | Method: POST /api/lotterys | ResponseStatus: 201 | Latency: 163.9776ms 
+2024/05/01 23:01:28 ReqID: ffe60563-da29-4673-86a4-bb5fd61c497d | Method: POST /api/lotterys | IP: ::1 
+2024/05/01 23:01:28 ReqID: ffe60563-da29-4673-86a4-bb5fd61c497d | Method: POST /api/lotterys | ResponseStatus: 201 | Latency: 161.4669ms 
+2024/05/01 23:03:03 ReqID: d7a4a2a7-df46-48b7-96dc-a9420b8a1e0d | Method: GET /api/lotterys | IP: ::1 
+2024/05/01 23:03:03 ReqID: d7a4a2a7-df46-48b7-96dc-a9420b8a1e0d | Method: GET /api/lotterys | ResponseStatus: 200 | Latency: 81.5597ms 
