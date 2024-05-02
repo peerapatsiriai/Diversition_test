@@ -1,6 +1,12 @@
 # Clone This Project
 ``` cd project-name ```
 
+# Install package
+``` composer install ```
+
+# Generate Application Key
+``` php artisan key:generate ```
+
 # Start Tailwind Service
 ``` npm run dev ```
 
