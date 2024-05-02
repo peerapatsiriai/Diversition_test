@@ -2,7 +2,7 @@
 ``` cd project-name ```
 
 # Install package
-``` composer install ```
+``` composer install ``` ``` npm i ```
 
 # Generate Application Key
 ``` php artisan key:generate ```
